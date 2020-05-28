@@ -1,4 +1,3 @@
-<p align="center">coming soon</p>
 
 <h1 align="center">
   <a href="https://github.com/gemmadlou/maildom"><img src="./docs/img/maildom.jpg" alt="Markdownify" width="100%" style="max-width: 100%" title="Maildom" alt="Maildom"></a>
